@@ -37,7 +37,7 @@ Este informe proporciona una visión detallada del proceso de desarrollo, incluy
 
 Invitamos a investigadores, educadores y desarrolladores interesados en la educación neurodivergente a utilizar este informe como referencia para futuros proyectos o investigaciones en el campo.
 <div align="center">
-<img src="https://i.pinimg.com/originals/c9/bc/21/c9bc210aa88b1e56726b1261a704351a.gif">
+<img src="https://i.pinimg.com/originals/df/d9/e6/dfd9e6b7ffbf301c8e6fb7f79896c333.gif">
 </div>
 
 
@@ -50,5 +50,5 @@ Agradecemos su interés en el proyecto Edumetrica. Esperamos que este informe pr
 
 <h1 align="center">Gracias por leer el README.md del proyecto</h1>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/c9/bc/21/c9bc210aa88b1e56726b1261a704351a.gif">
+    <img src="https://i.pinimg.com/originals/68/13/f4/6813f45522f8a59ee6aa9108d09514fe.gif">
 </div>
