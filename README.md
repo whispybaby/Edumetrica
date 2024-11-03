@@ -12,7 +12,7 @@
   
 
 <div align="center">
-    <img src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAgQWvXOvm9jAZbAOgbH1NT4">
+    <img src="https://i.pinimg.com/originals/64/e7/f9/64e7f90ce2b5b5bb3b9a094e0be8a391.gif">
 </div>
 
 StudyCombinaded es un proyecto que nacio en base a la idea de que no todos  aprendendemos en la misma velocidad..₊˚ʚ 🌱 ₊˚✧ ﾟ.
