@@ -19,19 +19,14 @@ Edumetrica se basa en el principio fundamental de que cada estudiante aprende a 
 - Herramientas interactivas diseñadas para mejorar la participación y comprensión
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/82/54/2e/82542ef9ea570b4c445afa6af48ddc57.gif">
+    <img src="https://i.pinimg.com/originals/54/c6/ed/54c6edc5be0d4339f131e6b7a203a585.gif">
 </div>
 
 
-<h1 align="center">  ⋆୨୧ ₊ﾟ🥡🥢 ⊹ɞ </h1>
+<h1 align="center">  ⋆୨୧ ₊ﾟ🥡🥢 De momento ⊹ɞ </h1>
 <div align="center">
     <img src="https://i.pinimg.com/originals/c9/bc/21/c9bc210aa88b1e56726b1261a704351a.gif">
-
-</div>
-
-
-## De momento
-Actualmente, Edumetrica se encuentra en una fase avanzada de desarrollo. Hemos completado exhaustivas pruebas de funcionalidad, usabilidad, rendimiento y seguridad, como se detalla en las secciones anteriores de este informe. Nuestro compromiso con la accesibilidad se refleja en el cumplimiento de los estándares WCAG 2.1, asegurando que la plataforma sea inclusiva para todos los usuarios.
+    Actualmente, Edumetrica se encuentra en una fase avanzada de desarrollo. Hemos completado exhaustivas pruebas de funcionalidad, usabilidad, rendimiento y seguridad, como se detalla en las secciones anteriores de este informe. Nuestro compromiso con la accesibilidad se refleja en el cumplimiento de los estándares WCAG 2.1, asegurando que la plataforma sea inclusiva para todos los usuarios.
 
 Este informe proporciona una visión detallada del proceso de desarrollo, incluyendo:
 
@@ -41,6 +36,11 @@ Este informe proporciona una visión detallada del proceso de desarrollo, incluy
 - Consideraciones de seguridad y cumplimiento normativo
 
 Invitamos a investigadores, educadores y desarrolladores interesados en la educación neurodivergente a utilizar este informe como referencia para futuros proyectos o investigaciones en el campo.
+</div>
+
+
+
+
 
 ## Agradecimientos
 
