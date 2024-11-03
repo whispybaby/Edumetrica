@@ -19,13 +19,13 @@ Edumetrica se basa en el principio fundamental de que cada estudiante aprende a 
 - Herramientas interactivas diseñadas para mejorar la participación y comprensión
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/64/e7/f9/64e7f90ce2b5b5bb3b9a094e0be8a391.gif">
+    <img src="https://i.pinimg.com/originals/82/54/2e/82542ef9ea570b4c445afa6af48ddc57.gif">
 </div>
 
 
 <h1 align="center">  ⋆୨୧ ₊ﾟ🥡🥢 ⊹ɞ </h1>
 <div align="center">
-    <img src="https://dthezntil550i.cloudfront.net/7x/latest/7x2009170632102600012715286/c11cf087-9e42-4bc9-a14c-1e77b2e168af.gif">
+    <img src="https://i.pinimg.com/originals/c9/bc/21/c9bc210aa88b1e56726b1261a704351a.gif">
 
 </div>
 
@@ -48,5 +48,5 @@ Agradecemos su interés en el proyecto Edumetrica. Esperamos que este informe pr
 
 <h1 align="center">Gracias por leer el README.md del proyecto</h1>
 <div align="center">
-    <img src="https://media.tenor.com/FjuLjYUEiGgAAAAd/yashiro-nene-toilet-bound-hanako-kun.gif">
+    <img src="https://i.pinimg.com/originals/c9/bc/21/c9bc210aa88b1e56726b1261a704351a.gif">
 </div>
