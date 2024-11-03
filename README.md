@@ -22,7 +22,7 @@ Edumetrica se basa en el principio fundamental de que cada estudiante aprende a 
     <img src="https://i.pinimg.com/originals/64/e7/f9/64e7f90ce2b5b5bb3b9a094e0be8a391.gif">
 </div>
 
-StudyCombinaded es un proyecto que nacio en base a la idea de que no todos  aprendendemos en la misma velocidad..₊˚ʚ 🌱 ₊˚✧ ﾟ.
+
 <h1 align="center">  ⋆୨୧ ₊ﾟ🥡🥢 ⊹ɞ </h1>
 <div align="center">
     <img src="https://dthezntil550i.cloudfront.net/7x/latest/7x2009170632102600012715286/c11cf087-9e42-4bc9-a14c-1e77b2e168af.gif">
